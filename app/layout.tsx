@@ -14,7 +14,7 @@ import getCurrentUser from './actions/getCurrentUser';
 
 export const metadata = {
   title: 'Telehome',
-  description: 'Airbnb but somehow better',
+  description: 'We are Telehome',
 }
 
 const font = Nunito({ 
